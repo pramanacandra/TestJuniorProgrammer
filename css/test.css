@@ -1,0 +1,44 @@
+          .hover{
+               cursor: pointer;
+          }
+          table{
+               width: 400px;
+               margin: auto;
+               border-radius: 0px;
+               border-width: 1px;
+               padding:50px;
+               border-style: solid ;
+               border-color: #FFA800;
+               background-color: #ffffff;
+          }
+          td{
+               text-align: left;
+          }
+          th{
+               background: gray;
+               text-align: center;
+          }
+          .hoverTd{
+               background: cadetblue;
+               cursor: pointer;
+               color: white;
+          }
+          h3{
+               text-align: center;
+          }
+          h2{
+               text-align: center;
+          }
+          body {
+               background-image: url('../img/indo.jpg');
+               background-size: cover;  
+               background-repeat: no-repeat;
+               background-attachment: fixed;
+          }
+
+          #myButton1 {
+               width: 75px;
+               height: 40px;
+               text-align: center;
+               text-size-adjust: 14px;
+          }
